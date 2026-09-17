@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Polimorfismo.exer4
 {
-    internal class Notificacao : Inotificacao
+    internal class NotificacaoPush : Inotificacao
     {
         public void Enviar()
         {
