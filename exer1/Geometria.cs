@@ -8,7 +8,7 @@ namespace Polimorfismo.exer1
     {
         public double CalcularArea(double Lado)
         {
-            return Lado * Lado
+            return Lado * Lado;
         }
         public double CalcularArea(double Altura, double Base)
         {
